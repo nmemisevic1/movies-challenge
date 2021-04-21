@@ -1,0 +1,27 @@
+.titleGridItem{
+    margin-top:1rem;
+    margin-left:2rem;
+    border: 1px solid black;
+}
+.titleGridItem:hover{
+    border: 1px solid turquoise;
+    cursor: pointer;
+    color:turquoise;
+}
+.allTitles{
+    margin-left:1rem;
+}
+.titleImg{
+    width: 300px, !important;
+    height: 300px !important;
+    object-fit: cover;
+}
+h1{
+    text-align: left;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+body,html{
+    background-color: #282c34;
+    font-family: 'Open Sans', sans-serif;
+  }
